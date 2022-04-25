@@ -1,0 +1,57 @@
+.box1 {
+    width: 190px;
+    height: 50px;
+    color: white;
+    background-color: blueviolet;
+    position: relative;
+    left: 43%;
+    padding: 10px;
+    box-sizing: border-box;
+    
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+span{
+    color: aqua;
+}
+
+p{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    color: white;
+}
+ul li{
+    margin: 30px;
+}
+.bt1{
+    margin : 10px;
+    width: 190px; 
+    height: 50px;
+    background-color:black ;
+    color: white;
+    position: absolute;
+    left: 30%;
+    padding: 10px;
+    box-sizing: 10px;
+}
+
+.bt2{
+    margin : 10px;
+    width: 190px; 
+    height: 50px;
+    background-color:black ;
+    color: white;
+    position: absolute;
+    left: 50%;
+    padding: 10px;
+    box-sizing: 10px;
+}
+
